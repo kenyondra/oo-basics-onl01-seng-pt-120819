@@ -13,4 +13,4 @@ end
 
 shoe = Shoe.new("Nike")
 shoe.cobble
-shoe.condition = "tattered"
+shoe.condition = "new"
