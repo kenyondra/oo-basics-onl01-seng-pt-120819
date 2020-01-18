@@ -17,4 +17,4 @@ end
 
 shoe = Shoe.new("Nike")
 shoe.cobble
-#shoe.condition
+shoe.condition = "new"
