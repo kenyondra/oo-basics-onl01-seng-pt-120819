@@ -11,10 +11,10 @@ class Shoe
   end
   
   def condition
-    @condition
+    @condition = "new"
   end
 end
 
 shoe = Shoe.new("Nike")
 shoe.cobble
-shoe.condition = "new"
+#shoe.condition = "new"
